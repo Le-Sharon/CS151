@@ -1,0 +1,18 @@
+//exercise 2 
+//Sources1: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html#:~:text=int%3A%20By%20default%2C%20the%20int,value%20of%20232%2D1.
+//Sources2: https://docs.oracle.com/javase/8/docs/api/java/lang/Integer.html
+
+1. List main differences between primitive data type int and class Integer?
+	From what I can remember from CS46b, data type int strictly hold the values that is inputted
+	it lacks the convenience compared to Integer class as it has useful methods included with it.
+	Methods commonly used such as parseInt or toBinaryString would only be available using Integer class.
+	
+2. What are advantages of using each one?
+	The advantage as mentioned above is that using int will be faster and more convenient if we 
+	don't need to do anything complex like converting numbers into objects or different types.
+	
+3.  List all specific functionalities that are available when using one and not the other.
+	int will only offer the functionality of storing data into its declared variable.
+	Integers will offer the functionality and convenience of using many methods associated with the 
+	class Integer itself. Because the list of methods available is long, I have cited reference of usuable
+	methods associated with class Integer in Sources2.
